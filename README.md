@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @ayushmehraa i am interested in Data science and data Analytics,I am a self learner, i have done some projects on data scrapping and analytics. 
+<img align="left" src="https://github.com/ShruAgarwal/ayushmehraa/blob/main/github.gif" width=600>
 
-<!---
-ayushmehraa/ayushmehraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 ABOUT ME 
+![](https://komarev.com/ghpvc/?username=mukeshreddy1994&style=plastic&color=purple&label=VISITORS)
+   - 👀 I’m interested in Data science and Data Analytics.
+   - ✨ I am a self learner
+   - 👨‍💻 I have done some projects on Data scrapping and analytics. 
+   - 🌱 Currently learning ...
+   - Some more points...
+   
+<br clear="left"/>
+
+<!-- stack - python , statistics, power bi , excel, SQL, mysql, postgresql, mongodb, Git, jupyter,heroku
+ 
+-CURRENTLY LEARNING : mongodb, R language,  Azure Cloud, sklearn, tenserflow, keras>
