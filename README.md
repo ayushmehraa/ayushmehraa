@@ -1,4 +1,4 @@
-<!--<img align="center" src="https://github.com/ShruAgarwal/ayushmehraa/blob/main/github.gif" width=1500 height=300 />-->
+<img align="center" src="https://github.com/ShruAgarwal/ayushmehraa/blob/patch-1/banner.gif" />
 
 ### 👋 ABOUT ME 
 ![](https://komarev.com/ghpvc/?username=mukeshreddy1994&style=plastic&color=green&label=VISITORS)
