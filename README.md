@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=mukeshreddy1994&style=plastic&color=green&label=VISITORS)
 - 👀 I’m interested in Data science and Data Analytics.
 - ✨ I am a self learner
-- 👨‍💻 I have done some projects on Data scrapping and analytics. 
+- 👨‍💻 I have done some projects on Data scrapping, analytics and machine learning. 
 - 🌱 Currently learning ...
 - Some more points...
    
@@ -23,17 +23,17 @@
    <img src="https://img.icons8.com/color/344/git.png" width="50" alt="git" />
    <img src="https://img.icons8.com/fluency/344/jupyter.png" width="50" alt="Jupyter" />
    <img src="https://img.icons8.com/color/344/heroku.png" width="50" alt="Heroku" />
+   <img src="https://img.icons8.com/color/344/mongodb.png" width="50" alt="mongoDB" />
+   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="80" alt="sci-kit learn" />
+   <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
 </p>
 
 
 ### 🌱 I'M CURRENTLY LEARNING
 <p align="left">
-   <img src="https://img.icons8.com/color/344/mongodb.png" width="50" alt="mongoDB" />
    <img src="https://img.icons8.com/dusk/344/r.png" width="50" alt="R lang" />
    <img src="https://www.kindpng.com/picc/m/361-3612481_microsoft-azure-logo-svg-hd-png-download.png" width="80" alt="Azure Cloud" />
-   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="80" alt="sci-kit learn" />
    <img src="https://img.icons8.com/color/344/tensorflow.png" width="50" alt="Tensorflow" />
-   <img src="https://keras.io/img/logo.png" width="80" alt="Keras" />
 </p>
 
 
